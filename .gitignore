@@ -1,0 +1,6 @@
+backend/target/
+jmeter/results/*
+!jmeter/results/.gitkeep
+jmeter/jmeter.log
+.idea/
+.vscode/
